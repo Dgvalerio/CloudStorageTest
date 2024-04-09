@@ -13,6 +13,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\CloudStorageTest.Application\CloudStorageTest.Application.csproj" />
+      <ProjectReference Include="..\CloudStorageTest.Infrastructure\CloudStorageTest.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
